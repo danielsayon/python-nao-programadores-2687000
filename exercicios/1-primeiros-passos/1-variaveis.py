@@ -4,7 +4,7 @@
 # - E não podemos usar palavras reservadas do Python, como if, for, from, etc. 
 
 # Declare variáveis do tipo string
-
+nome='Daniel'
 # Declare variáveis de cada tipo numérico
 
 
